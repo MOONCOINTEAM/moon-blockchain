@@ -1,0 +1,8 @@
+[submodule "moon-blockchain-gui"]
+	path = moon-blockchain-gui
+	url = https://github.com/MOONCOINTEAM/moon-blockchain-gui.git
+	branch = main
+[submodule "mozilla-ca"]
+	path = mozilla-ca
+	url = https://github.com/Chia-Network/mozilla-ca.git
+        branch = main
